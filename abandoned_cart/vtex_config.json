@@ -1,0 +1,19 @@
+{
+  "State": "cart-updated",
+  "rclastcart": "{!rclastcart}",
+  "rclastcartvalue": "{!rclastcartvalue}",
+  "rclastsession": "{!rclastsession}",
+  "rclastsessiondate": "{!rclastsessiondate}",
+  "homePhone": "{!homePhone}",
+  "phone": "{!phone}",
+  "email": "{!email}",
+  "userId": "{!userId}",
+  "firstName": "{!firstName}",
+  "lastName": "{!lastName}",
+  "id": "{!id}",
+  "accountId": "{!accountId}",
+  "accountName": "{!accountName}",
+  "dataEntityId": "{!dataEntityId}",
+  "createdIn": "{!createdIn}",
+  "updatedIn": "{!updatedIn}"
+}
